@@ -15,7 +15,7 @@
           <p>OS ELEFEANTES VOAM COM SUAS ORELHAS!</p> 
         </div> 
         <div class="cartao-verso"> 
-          <img src="https://share.google/DxCyixtBrK5Io2Wdr" alt="Pinguim" class="cartao-imagem"> 
+          <img src="https://share.google/DxCyixtBrK5Io2Wdr" alt="ELEFANTE" class="cartao-imagem"> 
           <p>Os elefantes têm orelhas grandes, mas elas servem para ajudar a controlar a temperatura do corpo, não para voar.</p> 
         </div> 
       </div> 
