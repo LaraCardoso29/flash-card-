@@ -11,12 +11,12 @@
     <article> 
       <div> 
         <div> 
-          <img src="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/mm1012723121410486.jpg?w=1900&h=2849" alt="Pinguim" class="cartao-imagem"> 
-          <p>Pinguins conseguem voar como pássaros!</p> 
+          <img src=https://share.google/DxCyixtBrK5Io2Wdr
+          <p>OS ELEFEANTES VOAM COM SUAS ORELHAS!</p> 
         </div> 
         <div class="cartao-verso"> 
-          <img src="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/mm1012723121410486.jpg?w=1900&h=2849" alt="Pinguim" class="cartao-imagem"> 
-          <p>Pinguins não voam, mas são excelentes nadadores.</p> 
+          <img src="https://share.google/DxCyixtBrK5Io2Wdr" alt="Pinguim" class="cartao-imagem"> 
+          <p>Os elefantes têm orelhas grandes, mas elas servem para ajudar a controlar a temperatura do corpo, não para voar.</p> 
         </div> 
       </div> 
     </article> 
